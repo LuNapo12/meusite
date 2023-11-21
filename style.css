@@ -21,6 +21,8 @@ h1 {
 #boladouro {
     width: 100px;
     height: 50px;
+    background-image: "boladouro";
+    background-repeat: no-repeat;
 }
 
 h2 {
