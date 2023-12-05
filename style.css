@@ -19,8 +19,9 @@ h1 {
 }
 
 #boladouro {
-    width: 1px;
-    height: 2px;
+    width: 500px;
+    display: block;
+    margin: auto;
 }
 
 h2 {
