@@ -30,7 +30,7 @@ h2 {
 
 #messi {
     width: 300px;
-    display: contents;
+    display: flex;
     margin: auto;
 }
 
